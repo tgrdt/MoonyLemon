@@ -1,7 +1,11 @@
 {
     "title": "MoonyLemon",
-    "name": "Moony Lemon project",
+    "name": "moony-lemon-project",
     "version": "0.0.1",
+    "scripts": {
+        "test": "echo 'no tests specified !' && exit 1",
+        "start": "gulp dev"
+      },
     "description": "",
     "homepage": "https://startbootstrap.com/template-overviews/grayscale",
     "bugs": {
