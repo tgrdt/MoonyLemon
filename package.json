@@ -1,20 +1,11 @@
 {
-    "title": "Grayscale",
-    "name": "startbootstrap-grayscale",
-    "version": "4.1.1",
-    "description": "A grayscale one page HTML theme for Bootstrap.",
-    "keywords": [
-        "css",
-        "sass",
-        "html",
-        "responsive",
-        "theme",
-        "template"
-    ],
+    "title": "MoonyLemon",
+    "name": "Moony Lemon project",
+    "version": "0.0.1",
+    "description": "",
     "homepage": "https://startbootstrap.com/template-overviews/grayscale",
     "bugs": {
-        "url": "https://github.com/BlackrockDigital/startbootstrap-grayscale/issues",
-        "email": "feedback@startbootstrap.com"
+        "url": "https://github.com/tgrdt/MoonyLemon/issues"
     },
     "license": "MIT",
     "author": "Start Bootstrap",
@@ -23,7 +14,7 @@
     ],
     "repository": {
         "type": "git",
-        "url": "https://github.com/BlackrockDigital/startbootstrap-grayscale.git"
+        "url": "https://github.com/tgrdt/MoonyLemon.git"
     },
     "dependencies": {
         "bootstrap": "4.1.1",
