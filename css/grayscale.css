@@ -124,7 +124,7 @@ a:focus, a:hover {
   padding: 200px 0;
   text-align: center;
   color: white;
-  background: url("../img/peony.jpeg") no-repeat bottom center scroll;
+  background: url("../img/intro-bg.jpg") no-repeat bottom center scroll;
   background-color: black;
   -webkit-background-size: cover;
   -moz-background-size: cover;
@@ -186,7 +186,7 @@ a:focus, a:hover {
 
 .download-section {
   color: white;
-  background: url("../img/peony4.jpeg") no-repeat center center scroll;
+  background: url("../img/downloads-bg.jpg") no-repeat center center scroll;
   background-color: black;
   -webkit-background-size: cover;
   -moz-background-size: cover;
@@ -220,16 +220,16 @@ a:focus, a:hover {
 }
 
 .btn-default {
-  color: #FFFFFF;
-  border: 1px solid #FFFFFF;
+  color: #42DCA3;
+  border: 1px solid #42DCA3;
   background-color: transparent;
 }
 
 .btn-default:focus, .btn-default:hover {
   color: black;
-  border: 1px solid #FFFFFF;
+  border: 1px solid #42DCA3;
   outline: none;
-  background-color: #FFFFFF;
+  background-color: #42DCA3;
 }
 
 ul.banner-social-buttons {
